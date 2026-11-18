@@ -1,0 +1,22 @@
+/* Ajustes mínimos para complementar as classes utilitárias do Bootstrap. */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* Ajuste de tamanho das imagens */
+main img {
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+#mazda {
+    width: 200px;
+}
+
+#ferrari {
+    width: 100px;
+}
